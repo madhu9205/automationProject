@@ -1,1 +1,1 @@
-# automationProject
+# playwrightProject
